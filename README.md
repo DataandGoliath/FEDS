@@ -8,7 +8,7 @@ E
 S[a,b] 
 These, before a colon, comprise KeyA and generate the table. After the colon, KeyB is used and encrypts the data through the table.
 The system is similiar in its core to a Vigenere cipher, however, it holds a few differences, most namely the flexible table. By shuffling the order of the letters, traditional decryption efforts for Vigenere are rendered ineffective.
-Furthermore, the more spacious alphabet of FEDS allows for more versitile and secure encryption, by rendering the formatting illegible in the ciphertext rather than preserving it, as the original Vigenere would.
+Furthermore, the more spacious alphabet of FEDS allows for more versatile and secure encryption, by rendering the formatting illegible in the ciphertext rather than preserving it, as the original Vigenere would.
 
 Planned updates:
 -FUFEDS - Special flags to scramble table through encryption as well, via two "roaming" pointers from seed values.
